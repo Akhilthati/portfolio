@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://sandeepbanuka.github.io/portfolio/Profile_Img.jpg"
+              src="https://akhilthati.github.io/portfolio/Profile_Img.jpg"
               alt="My Profile Picture"
               width="192"
               height="192"
@@ -62,17 +62,17 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Sandeep, </span> a{" "}
-        <span className="font-bold">full-stack developer</span> with {" "}
-        <span className="font-bold">6 years</span> of experience in building {" "}
-        <span className="italic">websites and applications</span>. My expertise
-        lies in frontend technologies such as {" "}
-        <span className="underline">React, Angular, Next JS {" "} </span>
-        as well as backend development with {" "}
-        <span className="underline">
-          Node JS and Java Spring Boot microservices
-        </span>
-        .
+        <span className="font-bold">Hello, I'm Akhil, </span> a{" "}
+        <span className="font-bold">Full-Stack Developer</span> with {" "}
+        <span className="font-bold">6 years</span> of hands-on experience in designing, developing and maintaining robust, scalable {" "}
+        <span className="italic">web applications</span>. My expertise
+        lies in backend technologies such as {" "}
+        <span className="underline">Java</span>, {" "}
+        <span className="underline">Spring Boot</span>, {" "}
+        <span className="underline">Microservices</span>, {" "}
+        <span className="underline">Scala</span> {" "}
+        as well as frontend technologies such as {" "}
+        <span className="underline">Angular</span>.
       </motion.h1>
 
       <motion.div
@@ -97,7 +97,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="https://sandeepbanuka.github.io/portfolio/RESUME.pdf"
+          href="https://akhilthati.github.io/portfolio/Resume.pdf"
           download
         >
           Download CV{" "}
@@ -106,7 +106,7 @@ export default function Intro() {
 
         <a
           className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://www.linkedin.com/in/sandeep-kumar-banuka-969055109/"
+          href="https://www.linkedin.com/in/akhilthati/"
           target="_blank"
         >
           <BsLinkedin />

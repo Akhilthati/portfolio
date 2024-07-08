@@ -27,7 +27,7 @@ const resend = new Resend(process.env.RESEND_API_KEY);
 //   try {
 //     data = await resend.emails.send({
 //       from: senderEmail,
-//       to: "sandeepbanuka0922@gmail.com",
+//       to: "akhilthati@gmail.com",
 //       subject: "Message from " + sendEmail,
 //       reply_to: senderEmail,
 //       react: React.createElement(ContactFormEmail, {
